@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+body{
+  
+    background: #ecf0f3;
+
+}
+
+.accordion{
+    margin: 50px;
+    width: 40%;
+    background: #fff;
+
+
+
+
+}
